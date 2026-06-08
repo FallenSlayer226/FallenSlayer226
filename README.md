@@ -23,7 +23,7 @@ I'm a passionate student with some experience in HTML, CSS and Markdown. I love 
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+Tide Island is a Quickshell Bar that is built with QML. This project demonstrates my ability to navigate complex problems and my proficiency in QML. You can check out the repository [Tide Island](https://github.com/FallenSlayer226/Tide-island)).
 
 ## Get in Touch 📬
 
