@@ -25,7 +25,7 @@ I'm a passionate student with some experience in HTML, CSS and Markdown. I love 
 
 Tide Island is a Quickshell Bar that is built with QML. This project demonstrates my ability to navigate complex problems and my proficiency in QML. You can check out the repository [Tide Island](https://github.com/FallenSlayer226/Tide-island)).
 
-### [My Dofiles](https://github.com/FallenSlayer226/Dotfiles))
+### [My Dofiles]((https://github.com/FallenSlayer226/Dotfiles))
 
 ![Project 2 Screenshot](https://private-user-images.githubusercontent.com/88559948/539581936-05c5d1c4-11b5-4707-a9af-2ae4d413f6a7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA5MDQxNjIsIm5iZiI6MTc4MDkwMzg2MiwicGF0aCI6Ii84ODU1OTk0OC81Mzk1ODE5MzYtMDVjNWQxYzQtMTFiNS00NzA3LWE5YWYtMmFlNGQ0MTNmNmE3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA4VDA3MzEwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzZTI5M2ZkYzJjMGZkYmY0ZjRiNGU5YTIyMDZiZjc0YjQ2ZTNjOTAxMWQ0NzkyZGMzNWVlYjkzMjdiMDcxMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.RdDbXCUcpUykUQChQg9rZoHL15KSvJClcixmjOf91bM)
 
