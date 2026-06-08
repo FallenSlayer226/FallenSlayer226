@@ -19,7 +19,7 @@ I'm a passionate student with some experience in HTML, CSS and Markdown. I love 
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Tide Island]((https://github.com/FallenSlayer226/Tide-island))
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
