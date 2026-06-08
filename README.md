@@ -25,16 +25,11 @@ I'm a passionate student with some experience in HTML, CSS and Markdown. I love 
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website 1]**([My First Website!](https://fallenslayer226.github.io/website-1/))
+- **[Personal Website 2]**([My Second Website!](https://fallenslayer226.github.io/website-2/))
+- **[LinkedIn]**([My LinkedIn](https://www.linkedin.com/in/kevin-guerra-a08031406/))
+- **[Youtube]**([My Youtube](https://youtube.com/@fallenslayer2268?si=AS66vhPWu1vxZW3Y))
 
 
